@@ -52,6 +52,7 @@ const styles = StyleSheet.create({
   screen: {
     flex: 1,
     backgroundColor: "#FFFFFF",
+    paddingBottom: 60,
   },
   backButton: {
     paddingHorizontal: 16,
